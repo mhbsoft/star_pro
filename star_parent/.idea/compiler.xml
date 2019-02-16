@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="star_admin" />
+        <module name="star_dao" />
+        <module name="star_impl" />
+        <module name="star_intf" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="star_admin" target="1.7" />
+      <module name="star_dao" target="1.8" />
+      <module name="star_impl" target="1.8" />
+      <module name="star_intf" target="1.8" />
+      <module name="star_parent" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

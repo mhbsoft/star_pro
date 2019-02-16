@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../star_admin/star_admin.iml" filepath="$PROJECT_DIR$/../star_admin/star_admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../star_dao/star_dao.iml" filepath="$PROJECT_DIR$/../star_dao/star_dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../star_impl/star_impl.iml" filepath="$PROJECT_DIR$/../star_impl/star_impl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../star_intf/star_intf.iml" filepath="$PROJECT_DIR$/../star_intf/star_intf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/star_parent.iml" filepath="$PROJECT_DIR$/star_parent.iml" />
+    </modules>
+  </component>
+</project>
